@@ -1,2 +1,2 @@
 # HeteroGNNRecSystem
-Heterogeneous GNN for Classification and RecSystem
+Heterogeneous GNN for product classification and recommendation system using Amazon product co-purchasing network data.
